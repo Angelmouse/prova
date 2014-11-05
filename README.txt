@@ -12,3 +12,9 @@ v0.1
 v0.2
 ====
 - Segunda versió de la pràctica
+
+
+v0.3
+====
+- Tercera versió de la pràctica
+
